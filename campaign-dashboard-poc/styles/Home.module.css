@@ -1,0 +1,6 @@
+.main {
+    height: 10000px;
+    display: flex;
+    padding: 6rem;
+    min-height: 100vh;
+}
